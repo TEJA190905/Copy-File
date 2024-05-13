@@ -26,16 +26,18 @@ End the program.
 ## PROGRAM:
 ```
 Write a python program for copying the contents from one file to another file.
-Develop bY: K.HEMANATH
-Register no: 212223100012
+Develop bY: M THEJESHWARAN
+Register no: 212223240168
+
 with open("text.txt",'r') as fp:
     msg1=fp.read()
 with open("copy.txt",'w') as fp1:
     fp1.write(msg1)
 ```
 ### OUTPUT:
-![output 1](https://github.com/Hemanath08/Copy-File/assets/151807176/77952961-da6a-4743-bd4a-6c0eebcc8c82)
-![output 2](https://github.com/Hemanath08/Copy-File/assets/151807176/b6c5c4b0-7d9a-4378-ba32-24dfd5c54ae5)
+![Screenshot (7)](https://github.com/TEJA190905/Copy-File/assets/167788543/0ba5d673-2bf3-404c-9bff-f4188f9375f1)
+
+![Screenshot (8)](https://github.com/TEJA190905/Copy-File/assets/167788543/1b2a7887-dff5-47cb-818f-e7aee2985d15)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
